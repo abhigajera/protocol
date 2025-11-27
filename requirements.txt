@@ -16,7 +16,8 @@ supabase
 pypdf
 tiktoken
 sentence-transformers
-
+# ... other dependencies ...
+gunicorn
 # Security (JWT ONLY — you are NOT using hashing)
 python-jose[cryptography]
 
