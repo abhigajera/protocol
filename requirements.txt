@@ -1,0 +1,22 @@
+
+
+# FastAPI & Server
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+python-dotenv
+
+# RAG & LLM Components
+langchain
+langchain-community
+langchain-huggingface
+langchain-google-genai
+supabase
+pypdf
+tiktoken
+sentence-transformers
+
+# Security (JWT ONLY — you are NOT using hashing)
+python-jose[cryptography]
+
